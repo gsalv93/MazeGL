@@ -12,6 +12,7 @@ The goal is to escape the maze as quickly as possible, while collecting the key 
 <p align="center">
 <img src="docs/sshot3.png" alt="description" width="600" height="350">
 </p>
+
 # Acknowledgments
 [The sprites resource](https://www.spriters-resource.com/pc_computer/3dmazescreensaver/) for 3D windows 95 maze textures
 
